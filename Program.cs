@@ -51,8 +51,17 @@
             /*
              * 1) Shipment Class
              * => Answer <==
-             * 
+             * in the Shipment class, we have two constructors. The first constructor takes only a tracking code and sets default values for the other properties. 
+             * The second constructor takes all the properties as parameters and initializes them.
              * **/
+
+            #region Quetion02
+            /*
+               * 2) Create Three Shipment Types
+               * => Answer <==
+               * in the Shipment class, we have three types of shipments: StandardShipment, ExpressShipment, and InternationalShipment.
+               * **/ 
+            #endregion
             #endregion
 
             #endregion
