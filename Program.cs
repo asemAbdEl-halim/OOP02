@@ -55,15 +55,26 @@
              * The second constructor takes all the properties as parameters and initializes them.
              * **/
 
+            #endregion
+
             #region Quetion02
             /*
                * 2) Create Three Shipment Types
                * => Answer <==
                * in the Shipment class, we have three types of shipments: StandardShipment, ExpressShipment, and InternationalShipment.
-               * **/ 
-            #endregion
+               * **/
             #endregion
 
+            #region Quetion03
+
+            /*
+             * 3) DeliveryCenter Class
+             * => Answer <==
+             * in the DeliveryCenter class, we have an array of Shipment objects to store the shipments. We also have two indexers: one for accessing shipments by index and another for accessing shipments by tracking code. 
+             * The AddShipment method allows us to add a new shipment to the array.
+             * **/
+
+            #endregion
             #endregion
         }
     }
