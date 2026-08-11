@@ -75,6 +75,17 @@
              * **/
 
             #endregion
+
+            #region Quetion04
+
+            /*
+             * 4- Demonstrate Class Relationships
+             * => Answer <==
+             * in the shipment classes , we have a 3 relationships between the classes. The Shipment class is the base class,
+             * and the StandardShipment, ExpressShipment, and InternationalShipment classes are derived from it.
+             * **/
+
+            #endregion
             #endregion
         }
     }
