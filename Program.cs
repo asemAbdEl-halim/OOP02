@@ -24,8 +24,21 @@
             #region Quetion02
 
             /*
-             * a) a) Which class is the parent class?
+             *  a) Which class is the parent class?
                 * ==> Answer <==
+                * Shipment is the parent class.
+                * 
+             *  b) Which class is the child class?
+                * ==> Answer <==
+                * ExpressShipment is the child class.
+                * 
+             *  c) What members are inherited by ExpressShipment?
+                * ==> Answer <==
+                * ExpressShipment inherits the TrackingCode property from Shipment.
+                * 
+             *  d) Why is inheritance better than duplicating the same code in multiple classes?
+                *  => Answer <==
+                *  Inheritance helps us reuse code and avoids writing the same code again. It also makes the program easier to maintain and update.
              * **/
 
             #endregion
