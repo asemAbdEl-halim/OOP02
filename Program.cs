@@ -44,6 +44,18 @@
             #endregion
 
             #endregion
+
+            #region Part02
+
+            #region Quetion01
+            /*
+             * 1) Shipment Class
+             * => Answer <==
+             * 
+             * **/
+            #endregion
+
+            #endregion
         }
     }
 }
